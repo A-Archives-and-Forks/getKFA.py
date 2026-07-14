@@ -14,7 +14,7 @@ ALLOWED_LOCALES = ["en-INT", "zh-Hans-CN"]
 # We are only sure about codes for the two locales now.
 FAKE_ACTIVATION_CODE = {
     "en-INT": "ZM4YW-FUTDY-W9B62-GSK26",
-    "zh-Hans-CN": "3SXCM-M9RJM-6985N-PWKP7",
+    "zh-Hans-CN": "A23B5-44EXM-85MVF-KM2GQ",
 }
 
 SITES = {
